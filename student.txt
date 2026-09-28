@@ -1,3 +1,0 @@
-Name:Adnan 
-Age: 20 
-Course : Python
